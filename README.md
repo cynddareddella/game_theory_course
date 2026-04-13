@@ -3,18 +3,17 @@
 ## Список ноутбуков
 
 1. Статистический анализ бинарных файлов в целях обнаружения  malware
-    [![Open Here](https://github.com/cynddareddella/game_theory_course/blob/spring-2026/malware/pe_classification_decision_tree_task.ipynb)
+   (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/malware/pe_classification_decision_tree_task.ipynb)
    Done
 
-2. Here (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/network_attack/jax_classification.ipynb) 
+2. Тут (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/network_attack/jax_classification.ipynb) 
    Done
 3. Анализ сетевого трафика в целях обнаружения сетевых атак
     [Дорабатывается]
 
 4. Большие языковые модели в компьютерной безопасности (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/rl/REINFORCE_task.ipynb)
    Done
-   <img src="1.gif" autoplay loop>
-   <img src="2.gif" autoplay loop>
+
 
   
 
