@@ -12,6 +12,7 @@
     [Дорабатывается]
 
 4. Большие языковые модели в компьютерной безопасности (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/rl/REINFORCE_task.ipynb)
+   Обязательно см.гифки
    Done
 
 
