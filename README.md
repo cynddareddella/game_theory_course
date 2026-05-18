@@ -6,10 +6,11 @@
    (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/malware/pe_classification_decision_tree_task.ipynb)
    Done
 
-2. Тут (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/network_attack/jax_classification.ipynb) 
+2. Классификация сетевого трафика и обнаружение атак с помощью нейронных сетей (PyTorch) (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/network_attack/network_traffic_classfication_pytorch.ipynb) 
    Done
 3. Анализ сетевого трафика в целях обнаружения сетевых атак
-    [Дорабатывается]
+   https://github.com/cynddareddella/game_theory_course/blob/spring-2026/llm/train_tiny_llm_bash_ru.ipynb
+   Done
 
 4. Большие языковые модели в компьютерной безопасности (https://github.com/cynddareddella/game_theory_course/blob/spring-2026/rl/REINFORCE_task.ipynb)
    Обязательно см.гифки
